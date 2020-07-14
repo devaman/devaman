@@ -1,4 +1,4 @@
-![Hello everyone 👋](https://img.devaman.dev/2/?title=Hello%20Everyone%20%F0%9F%91%8B&website=github.com/devaman&back=022022&textFill=fefefe)
+![Hello everyone 👋](https://img.devaman.dev/2/?title=Hello%20Everyone%20%F0%9F%91%8B&website=github.com/devaman&back=022022&textFill=fefefe&height=200)
 I am Amit Chambial , A Full stack developer. 
 
 I love to contribute to open-source software on GitHub. I am working for JP Morgan Chase as a Software Engineer I. 
