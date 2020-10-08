@@ -1,4 +1,4 @@
-const axios = require("axios");
+const fetch = require("node-fetch");
 const fs = require("fs")
 const query = `
     {
@@ -15,32 +15,17 @@ const query = `
     }
   `;
 
-const fetchPosts = async () => {
-    return await axios({
-        url: 'https://api.hashnode.com',
-        method: 'post',
-        data: {
-            query: `
-          {
-            user(username: "amitchambial") {
-              publication {
-                posts{
-                  slug
-                  title
-                  brief
-                  coverImage
-                }
-              }
-            }
-          }
-            `
-        }
+const fetchPosts = async() => {
+    const result = await fetch('https://api.hashnode.com', {
+        method: 'POST',
+        headers: {
+            'Content-type': 'application/json',
+        },
+        body: JSON.stringify({ query }),
     })
-
-
-};
-fetchPosts().then(result => {
-    const posts = result.data.data.user.publication.posts.map(d => {
+    const ApiResponse = await result.json();
+    console.log(ApiResponse.data.user.publication.posts);
+    const posts = ApiResponse.data.user.publication.posts.map(d => {
         return `
 ### [${d.title}](https://blog.devaman.dev/${d.slug})
 <img src="${d.coverImage}" height="100" />
@@ -65,6 +50,7 @@ ${posts.join("\n----\n")}
 
     fs.writeFileSync('./README.md', markdown)
 
-}).catch(err=>{
-    console.log(err);
-});
+
+
+};
+fetchPosts()
