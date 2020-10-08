@@ -60,9 +60,11 @@ My moto is Make to Learn thats why i have made lots of projects as you can see. 
 
 # My Blogs
 
-${posts.join("----\n")}
+${posts.join("\n----\n")}
 `;
 
     fs.writeFileSync('./README.md', markdown)
 
+}).catch(err=>{
+    console.log(err);
 });
