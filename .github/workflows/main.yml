@@ -26,6 +26,7 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '12.x'
+    - run: npm install axios
     # First we need to install Faraday gem. You can use ruby built-in NET::HTTP
     # class, but I want to show you how to work with gems in github-actions
     - name: Run script
