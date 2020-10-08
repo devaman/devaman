@@ -27,8 +27,6 @@ jobs:
       with:
         node-version: '12.x'
     - run: npm install node-fetch
-    # First we need to install Faraday gem. You can use ruby built-in NET::HTTP
-    # class, but I want to show you how to work with gems in github-actions
     - name: Run script
       # Here we are setting our secret API Key
       # Details: https://docs.github.com/en/actions/configuring-and-managing-workflows/using-variables-and-secrets-in-a-workflow
