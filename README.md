@@ -11,6 +11,18 @@ My moto is Make to Learn thats why i have made lots of projects as you can see. 
 # My Blogs
 
 
+### [GitHub auto README with NODEJS, github-actions and Hashnode API](https://blog.devaman.dev/github-auto-readme-with-nodejs-github-actions-and-hashnode-api)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602158965183/kCX1cnd-Y.png" height="100" />
+<p>Hi everyone. As you all know Github has introduced new feature to add a README to your Github profile. We will use this feature to show our latest blogs on our Github Profile. 
+We are using:
+
+Github Actions
+A Nodejs Script to Call Hashnode Api.
+
+Node...</p>
+
+----
+
 ### [AutoDeploy your projects using Github WebHooks](https://blog.devaman.dev/autodeploy-your-projects-using-github-webhooks)
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1593542814849/tn50Xz5xU.png" height="100" />
 <p>Hey Everyone,
@@ -50,21 +62,4 @@ Docker uses all the operating system resources (file system,process trees,user) 
 ### [Game Oasis Hackathon Bengaluru](https://blog.devaman.dev/game-oasis-hackathon-bengaluru)
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1572071844625/FQqUtQmGX.jpeg" height="100" />
 <p>I recently graduated from college and joined a job. Corporate Life is not that easy as everyone thinks.  I wanted some diversion from my daily routine. Then while surfing the internet I got to know about the Game oasis hackathon. The topic of the hac...</p>
-
-----
-
-### [Why I prefer Mac for Development !](https://blog.devaman.dev/why-i-prefer-mac-for-development)
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1560139061090/UEw2k38HX.jpeg" height="100" />
-<p>I have used window as a beginner and then shifted to Linux for better development experience. And at last satisfied by MacBook.
-Why not Windows!
-
-Slow bootup.
-
-No bash terminal.
-
-
-
-Most of the tutorial for Unix based system.
-Hang oftenly.
-Windows upd...</p>
 
