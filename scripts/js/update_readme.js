@@ -25,7 +25,7 @@ const fetchPosts = async() => {
     })
     const ApiResponse = await result.json();
     console.log(ApiResponse.data.user.publication.posts);
-    const posts = ApiResponse.data.user.publication.posts.map(d => {
+    const posts = ApiResponse.data.user.publication.posts.slice(0, 3).map(d => {
         return `
 ### [${d.title}](https://blog.devaman.dev/${d.slug})
 <img src="${d.coverImage}" height="100" />
@@ -46,6 +46,8 @@ My moto is Make to Learn thats why i have made lots of projects as you can see. 
 # My Blogs
 
 ${posts.join("\n----\n")}
+
+For More blogs visit my [blog](https://blog.devaman.dev) 
 `;
 
     fs.writeFileSync('./README.md', markdown)
