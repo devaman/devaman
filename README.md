@@ -40,29 +40,5 @@ Lets start !
 The script
 const secret = "secret-...</p>
 
-----
 
-### [SSR vs CSR vs Static Render](https://blog.devaman.dev/ssr-vs-csr-vs-static-render)
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1591703398165/M_NebPgs9.png" height="100" />
-<p>Hey everyone,
-I recently saw a post asking for some help on this topic. So i am writing on this topic.Lets start.
-First off all there are two type of data in website :
-
-Static data ( for everyone it is same eg site name )
-Dynamic data ( for everyone ...</p>
-
-----
-
-### [How to speed up your next js app using GZip](https://blog.devaman.dev/how-to-speed-up-your-next-js-app-using-gzip)
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1586161878201/7ueZ4Lpcg.jpeg" height="100" />
-<p>Recently I was working on one of my projects built using nextjs . I was using semantic UI library. Even the minified version is too big for production. (631kb)  It was making my web app slow.  I searched through the internet for ways to reduce the si...</p>
-
-----
-
-### [Docker: A Beginners Guide](https://blog.devaman.dev/docker-a-beginners-guide)
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1580840331222/3n4K9eHKQ.png" height="100" />
-<p>What is docker ?
-Docker is a computer program that performs operating-system-level virtualisation, also known as "containerization"
-
-Docker uses all the operating system resources (file system,process trees,user) and carve them in virtual OS called c...</p>
-
+For More blogs visit my [blog](https://blog.devaman.dev) 
