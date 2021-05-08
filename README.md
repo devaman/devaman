@@ -11,6 +11,17 @@ My moto is Make to Learn thats why i have made lots of projects as you can see. 
 # My Blogs
 
 
+### [How To Submit A Pull Request On Github ?](https://blog.devaman.dev/how-to-submit-a-pull-request-on-github)
+<img src="" height="100" />
+<p>In this post I will tell you about on how to submit a pull request to the organization on which you are thinking to contribute.
+Now lets gets started with the steps...
+1) Step 1 :
+Fork the repo.
+2) Step 2 :
+Clone the repository.Open the terminal and ...</p>
+
+----
+
 ### [Preparing for Frontend Interview](https://blog.devaman.dev/preparing-for-frontend-interview)
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616752025598/xtJl6Ip0Y.png" height="100" />
 <p>Debounce
@@ -29,16 +40,6 @@ Github Actions
 A Nodejs Script to Call Hashnode Api.
 
 Node...</p>
-
-----
-
-### [AutoDeploy your projects using Github WebHooks](https://blog.devaman.dev/autodeploy-your-projects-using-github-webhooks)
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1593542814849/tn50Xz5xU.png" height="100" />
-<p>Hey Everyone,
-Many of us has this problem of deploying our github repo to EC2 machines or Digital Ocean's droplets or etc. We can automate this process by running a simple webhook script on our machine.
-Lets start !
-The script
-const secret = "secret-...</p>
 
 
 For More blogs visit my [blog](https://blog.devaman.dev) 
