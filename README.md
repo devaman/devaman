@@ -11,6 +11,12 @@ My moto is Make to Learn thats why i have made lots of projects as you can see. 
 # My Blogs
 
 
+### [Reactjs in Vuejs using Module Federation (inc Routing)](https://blog.devaman.dev/reactjs-in-vuejs-using-module-federation-inc-routing)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635580138128/zwydYlaNR.png" height="100" />
+<p>Hey everyone , Webpack has released some new cool feature called module federation. Module Federation allows a JavaScript application to dynamically load code from another application and  in the process, share dependencies. If an application consumi...</p>
+
+----
+
 ### [How To Submit A Pull Request On Github ?](https://blog.devaman.dev/how-to-submit-a-pull-request-on-github)
 <img src="" height="100" />
 <p>In this post I will tell you about on how to submit a pull request to the organization on which you are thinking to contribute.
@@ -28,18 +34,6 @@ Clone the repository.Open the terminal and ...</p>
 It is used to improved performance . Sometime a function is being called continuously . 
 The Debounce technique allow us to "group" multiple sequential calls in a single one. For eg 
 Suppose we have blog editor.We are editing the content of ...</p>
-
-----
-
-### [GitHub auto README with NODEJS, github-actions and Hashnode API](https://blog.devaman.dev/github-auto-readme-with-nodejs-github-actions-and-hashnode-api)
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602158965183/kCX1cnd-Y.png" height="100" />
-<p>Hi everyone. As you all know Github has introduced new feature to add a README to your Github profile. We will use this feature to show our latest blogs on our Github Profile. 
-We are using:
-
-Github Actions
-A Nodejs Script to Call Hashnode Api.
-
-Node...</p>
 
 
 For More blogs visit my [blog](https://blog.devaman.dev) 
