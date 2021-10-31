@@ -26,7 +26,7 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-    - run: npm install node-fetch
+    - run: npm install node-fetch@^2.6.6
     - name: Run script
       # Here we are setting our secret API Key
       # Details: https://docs.github.com/en/actions/configuring-and-managing-workflows/using-variables-and-secrets-in-a-workflow
