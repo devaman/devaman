@@ -11,29 +11,22 @@ My moto is Make to Learn thats why i have made lots of projects as you can see. 
 # My Blogs
 
 
+### [Daily Learnings](https://blog.devaman.dev/daily-learnings)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684774661333/6881cca0-9fc2-4144-acf8-fd932b0cea80.png" height="100" />
+<p>19/May/2023
+While using mini-css-extract-plugin with vuejs and webpack 5, I was getting problem related to CSS priority. Scoped Css/Scss was not getting higher priority than common css. To resolve this issue we had to use oneof rule. In resourceQuery...</p>
+
+----
+
+### [Migrating your project to AWS IOT device sdk v2](https://blog.devaman.dev/migrating-your-project-to-aws-iot-device-sdk-v2)
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684773585113/5e5a7ca7-eb10-4621-a345-92923eaa659a.png" height="100" />
+<p>Hello everyone! I recently had the opportunity to work with AWS IoT to fetch real-time data. During the migration from Webpack 4 to Webpack 5, we encountered some issues with the aws-iot-device-sdk. While building our project, we encountered errors r...</p>
+
+----
+
 ### [Reactjs in Vuejs using Module Federation (inc Routing)](https://blog.devaman.dev/reactjs-in-vuejs-using-module-federation-inc-routing)
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635580138128/zwydYlaNR.png" height="100" />
 <p>Hey everyone , Webpack has released some new cool feature called module federation. Module Federation allows a JavaScript application to dynamically load code from another application and  in the process, share dependencies. If an application consumi...</p>
-
-----
-
-### [How To Submit A Pull Request On Github ?](https://blog.devaman.dev/how-to-submit-a-pull-request-on-github)
-<img src="" height="100" />
-<p>In this post I will tell you about on how to submit a pull request to the organization on which you are thinking to contribute.
-Now lets gets started with the steps...
-1) Step 1 :
-Fork the repo.
-2) Step 2 :
-Clone the repository.Open the terminal and ...</p>
-
-----
-
-### [Preparing for Frontend Interview](https://blog.devaman.dev/preparing-for-frontend-interview)
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616752025598/xtJl6Ip0Y.png" height="100" />
-<p>Debounce
-It is used to improved performance . Sometime a function is being called continuously . 
-The Debounce technique allow us to "group" multiple sequential calls in a single one. For eg 
-Suppose we have blog editor.We are editing the content of ...</p>
 
 
 For More blogs visit my [blog](https://blog.devaman.dev) 
